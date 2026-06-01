@@ -8,10 +8,6 @@ I care about the details that make software feel considered. The interaction tha
 - scaling **identity & access management** in Prism Central
 - shipping side projects on [sourabhdaroji.com](https://sourabhdaroji.com)
 
-### contributions
-
-![contribution heatmap](https://ghchart.rshah.org/5dd7a4/gizmofalcon)
-
 ### elsewhere
 
 [portfolio](https://sourabhdaroji.com) · [linkedin](https://www.linkedin.com/in/sourabhdaroji/) · [x](https://x.com/gizmofalcon) · [book time](https://cal.com/sourabh.daroji)
