@@ -4,7 +4,7 @@ I care about the details that make software feel considered. The interaction tha
 
 ### currently
 
-- designing **NIVA**, Nutanix's AI-native private cloud management experience
+- designing Nutanix's AI-native private cloud management experience
 - scaling **identity & access management** in Prism Central
 - shipping side projects on [sourabhdaroji.com](https://sourabhdaroji.com)
 
